@@ -1,7 +1,7 @@
 // filepath: c:\Users\USER\Desktop\Code\html\webproject\script.js
-const API_KEY = '771860473e4ea176098a88c1980217e2';
-const BASE_URL = 'https://api.themoviedb.org/3';
-const IMG_PATH = 'https://image.tmdb.org/t/p/w500';
+const API_KEY = '*****************';
+const BASE_URL = '***************';
+const IMG_PATH = '**********';
 
 const moviesSection = document.getElementById('movies-section');
 const form = document.getElementById('form');
